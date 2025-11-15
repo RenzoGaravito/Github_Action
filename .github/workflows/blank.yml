@@ -62,6 +62,6 @@ jobs:
       # Variable abierta
       - name: Variable abierta
         run: |
-          echo Imprimir Variable Abierta: ${{vars.Semana14}}
+          echo Imprimir Variable Abierta: ${{vars.SEMANA_14}}
 
 
